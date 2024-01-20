@@ -1,0 +1,15 @@
+E:\Coderhouse\Cadenas\bin\Debug\net6.0\Cadenas.exe
+E:\Coderhouse\Cadenas\bin\Debug\net6.0\Cadenas.deps.json
+E:\Coderhouse\Cadenas\bin\Debug\net6.0\Cadenas.runtimeconfig.json
+E:\Coderhouse\Cadenas\bin\Debug\net6.0\Cadenas.dll
+E:\Coderhouse\Cadenas\bin\Debug\net6.0\Cadenas.pdb
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.csproj.AssemblyReference.cache
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.AssemblyInfoInputs.cache
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.AssemblyInfo.cs
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.csproj.CoreCompileInputs.cache
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.dll
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\refint\Cadenas.dll
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.pdb
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\Cadenas.genruntimeconfig.cache
+E:\Coderhouse\Cadenas\obj\Debug\net6.0\ref\Cadenas.dll
